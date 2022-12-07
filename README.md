@@ -1,5 +1,5 @@
 # Projet formation-git
 
-## Titre
+## Read-me
 
-### Sous-titre
+Description du projet de formation à Git 
